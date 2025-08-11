@@ -1,11 +1,11 @@
 ## QA Engineer
 
 ### Portfolio
-- [Test plan] (https://docs.google.com/document/d/1-aPMxbjXHMR54EWwvgu3kf8l7roVnQtnQI1TCD6QtqM/edit?usp=sharing)
-- [Test cases] (https://docs.google.com/spreadsheets/d/1jpa_TylK5mPbSp7olHQ2xDykmCAG2agEI5afbjarQMM/edit?usp=sharing)
-- [Check lists] (https://docs.google.com/spreadsheets/d/1-OiLWa1L459GzMf1AnTWqEo4uEZdiKGTRigsH98Vs6s/edit?usp=sharing)
-- [Bug reports] (https://docs.google.com/spreadsheets/d/1jYuhf3eiZnV-XWtNq-CEEA96iDmgiFFf3zFqVEobMAo/edit?usp=sharing)
-- [Test report] (https://docs.google.com/document/d/1nxsU562vxrX2R2xQg3YHTy2qw01Z5xPKMOaQ6g_acnk/edit?usp=sharing)
+- [Test plan](https://docs.google.com/document/d/1-aPMxbjXHMR54EWwvgu3kf8l7roVnQtnQI1TCD6QtqM/edit?usp=sharing)
+- [Test cases](https://docs.google.com/spreadsheets/d/1jpa_TylK5mPbSp7olHQ2xDykmCAG2agEI5afbjarQMM/edit?usp=sharing)
+- [Check lists](https://docs.google.com/spreadsheets/d/1-OiLWa1L459GzMf1AnTWqEo4uEZdiKGTRigsH98Vs6s/edit?usp=sharing)
+- [Bug reports](https://docs.google.com/spreadsheets/d/1jYuhf3eiZnV-XWtNq-CEEA96iDmgiFFf3zFqVEobMAo/edit?usp=sharing)
+- [Test report](https://docs.google.com/document/d/1nxsU562vxrX2R2xQg3YHTy2qw01Z5xPKMOaQ6g_acnk/edit?usp=sharing)
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-025E8C?style=for-the-badge)
