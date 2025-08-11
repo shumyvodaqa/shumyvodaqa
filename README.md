@@ -6,6 +6,7 @@
 - [Check lists](https://docs.google.com/spreadsheets/d/1-OiLWa1L459GzMf1AnTWqEo4uEZdiKGTRigsH98Vs6s/edit?usp=sharing)
 - [Bug reports](https://docs.google.com/spreadsheets/d/1jYuhf3eiZnV-XWtNq-CEEA96iDmgiFFf3zFqVEobMAo/edit?usp=sharing)
 - [Test report](https://docs.google.com/document/d/1nxsU562vxrX2R2xQg3YHTy2qw01Z5xPKMOaQ6g_acnk/edit?usp=sharing)
+- [Postman Swagger Petstore collection](https://.postman.co/workspace/My-Workspace~d543c177-a457-45df-81e7-f4ab8c3f4eb1/collection/43073962-cab064b6-2a90-4e00-8300-348abbf74b40?action=share&creator=43073962)
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-025E8C?style=for-the-badge)
@@ -17,7 +18,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
