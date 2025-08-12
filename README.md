@@ -14,7 +14,7 @@
 - [Bug reports](https://docs.google.com/spreadsheets/d/1BrcBFC1ViQb6T4ivXIANR8XXv93jSn35xDtpyTqXniM/edit?usp=sharing)
 - [Test report](https://docs.google.com/document/d/12q9kp60fwPS70jo2Ur8dOF_oSfc4f29r5JTWpyWfzmg/edit?usp=sharing)
 
-###CV
+### CV
 -[CV QA Engineer Dmytro Shumyvoda](https://docs.google.com/document/d/1i6FTs6inhazB8zxaSCTMd2gzJJuh7kJMsV4x5hyofEQ/edit?usp=sharing)
 
 ### Tools
