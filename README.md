@@ -39,8 +39,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shumivodnik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shumyvoda)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumivodnik&show_icons=true)](https://github.com/shumivodnik/github-readme-stats)
-
 
 <!--
 **shumyvodaqa/shumyvodaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
